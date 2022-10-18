@@ -1,0 +1,28 @@
+ruby-docile (1.1.5-2) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Cédric Boutillier ]
+  * Bump debhelper compatibility level to 9
+  * Remove version in the gem2deb build-dependency
+  * Use https:// in Vcs-* fields
+  * Run wrap-and-sort on packaging files
+
+  [ Christian Hofstaedtler ]
+  * Remove myself from Uploaders
+  * Bump Standards-Version to 3.9.8
+
+ -- Christian Hofstaedtler <zeha@debian.org>  Wed, 30 Nov 2016 18:34:25 +0000
+
+ruby-docile (1.1.5-1) unstable; urgency=medium
+
+  * Imported Upstream version 1.1.5
+  * Set Standards-Version to 3.9.6 (no addtl. changes)
+
+ -- Christian Hofstaedtler <zeha@debian.org>  Sun, 28 Jun 2015 22:28:20 +0200
+
+ruby-docile (1.1.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #733010)
+
+ -- Christian Hofstaedtler <zeha@debian.org>  Mon, 23 Dec 2013 23:29:04 +0100
